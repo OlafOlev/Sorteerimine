@@ -28,7 +28,7 @@ Pildid - Osad ise tehtud, osad internetist võetud.
 * **Ronald Andero Õisman** - *Kohandused, koodimine* - [Ronald](https://github.com/RonaldAndero)
 * **Janre Liiv** - *Küsimused/fact checking* - [Janre](https://github.com/J4nxx)
 * **Kristjan Derek Otsa** - *Küsimused/fact checking* - [Derek](https://github.com/KristjanDerekITA21)
-ITA21
+
 
 ## Tänuavaldused
 
