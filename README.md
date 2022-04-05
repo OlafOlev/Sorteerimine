@@ -24,10 +24,10 @@ Pildid - Osad ise tehtud, osad internetist võetud.
 
 ## Koodi kirjutajad
 
-* **Olaf Olev Alakivi** - *Esialgne töö, koodimine* - [Olaf](https://github.com/OlafOlev)
-* **Ronald Andero Õisman** - *Kohandused, koodimine* - [Ronald](https://github.com/RonaldAndero)
-* **Janre Liiv** - *Küsimused/fact checking* - [Janre](https://github.com/J4nxx)
-* **Kristjan Derek Otsa** - *Küsimused/fact checking* - [Derek](https://github.com/KristjanDerekITA21)
+* **Olaf Olev Alakivi** - [Olaf](https://github.com/OlafOlev)
+* **Ronald Andero Õisman** - [Ronald](https://github.com/RonaldAndero)
+* **Janre Liiv** - [Janre](https://github.com/J4nxx)
+* **Kristjan Derek Otsa** - [Derek](https://github.com/KristjanDerekITA21)
 
 
 ## Tänuavaldused
