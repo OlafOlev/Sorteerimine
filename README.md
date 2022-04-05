@@ -24,7 +24,10 @@ Pildid - Osad ise tehtud, osad internetist võetud.
 
 ## Koodi kirjutajad
 
-Olaf Olev Alakivi, Ronald Andero Õisman, Janre Liiv, Kristjan Derek Otsa
+* **Olaf Olev Alakivi** - *Esialgne töö, koodimine* - [Olaf](https://github.com/OlafOlev)
+* **Ronald Andero Õisman** - *Kohandused, koodimine* - [Ronald](https://github.com/RonaldAndero)
+* **Janre Liiv** - *Küsimused/fact checking* - [Janre](https://github.com/J4nxx)
+* **Kristjan Derek Otsa** - *Küsimused/fact checking* - [Derek](https://github.com/KristjanDerekITA21)
 ITA21
 
 ## Tänuavaldused
